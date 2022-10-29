@@ -7,3 +7,5 @@ Wielofunkcyjny Bot Discord!
 ・Moderacja
 ・Setupy
 ・Soon
+
+Już Niedługo Wystawiamy Pełną Wersje Na tego GITHUBA!
